@@ -1,0 +1,18 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€ÌÃ‡
+^
+java:S1192
+"IDefine a constant instead of duplicating this literal "Jendouba" 3 times.(¡„I
+^
+java:S1192
+"IDefine a constant instead of duplicating this literal "01111111" 3 times.(¡„I
+b
+java:S1192"GDefine a constant instead of duplicating this literal "Ghayth" 3 times.(íÿÀĞûÿÿÿÿ
+\
+java:S1192
+"GDefine a constant instead of duplicating this literal "Kbayer" 3 times.(¡„I
+d
+java:S1192"IDefine a constant instead of duplicating this literal "02222222" 3 times.(íÿÀĞûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®£Ï×
+S	java:S106"9Replace this use of System.out or System.err by a logger.(óĞ¨ªúÿÿÿÿ

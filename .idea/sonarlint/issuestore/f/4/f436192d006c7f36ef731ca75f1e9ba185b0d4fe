@@ -1,0 +1,92 @@
+
+t
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬–Âıÿÿÿÿ
+t
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(õëïéıÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´ŠÜåùÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(éñ¨Õıÿÿÿÿ
+v
+java:S1192"ZDefine a constant instead of duplicating this literal "Vous n'avez aucun produit" 3 times.(û°û™ûÿÿÿÿ
+
+java:S1319	"fThe type of "idList" should be an interface such as "List" rather than the implementation "ArrayList".(¬–Âıÿÿÿÿ
+ˆ
+java:S1319
+"mThe type of "referenceList" should be an interface such as "List" rather than the implementation "ArrayList".(õëïéıÿÿÿÿ
+ƒ
+java:S1319"hThe type of "nameList" should be an interface such as "List" rather than the implementation "ArrayList".(´ŠÜåùÿÿÿÿ
+…
+java:S1319"jThe type of "pricesList" should be an interface such as "List" rather than the implementation "ArrayList".(éñ¨Õıÿÿÿÿ
+b
+java:S1301Ø"KReplace this "switch" statement by "if" statements to increase readability.(Ôæı»
+m
+java:S1104	"RMake idList a static final constant or non-public and provide accessors if needed.(¬–Âıÿÿÿÿ
+t
+java:S1104
+"YMake referenceList a static final constant or non-public and provide accessors if needed.(õëïéıÿÿÿÿ
+o
+java:S1104"TMake nameList a static final constant or non-public and provide accessors if needed.(´ŠÜåùÿÿÿÿ
+q
+java:S1104"VMake pricesList a static final constant or non-public and provide accessors if needed.(éñ¨Õıÿÿÿÿ
+i
+java:S1104"NMake ID a static final constant or non-public and provide accessors if needed.(¨‘Óšıÿÿÿÿ
+G
+java:S1444	",Make this "public static idList" field final(¬–Âıÿÿÿÿ
+N
+java:S1444
+"3Make this "public static referenceList" field final(õëïéıÿÿÿÿ
+I
+java:S1444".Make this "public static nameList" field final(´ŠÜåùÿÿÿÿ
+K
+java:S1444"0Make this "public static pricesList" field final(éñ¨Õıÿÿÿÿ
+C
+java:S1444"(Make this "public static ID" field final(¨‘Óšıÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×ù
+h
+java:S3008"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨‘Óšıÿÿÿÿ
+8
+java:S2386	"Make this member "protected".(¬–Âıÿÿÿÿ
+8
+java:S2386
+"Make this member "protected".(õëïéıÿÿÿÿ
+8
+java:S2386"Make this member "protected".(´ŠÜåùÿÿÿÿ
+8
+java:S2386"Make this member "protected".(éñ¨Õıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(€Æùæúÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(«°Ê¨
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(í‡”ÿÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(í‡”ÿÿÿÿÿ
+<	java:S131=""Add a default case to this switch.(ë´åİşÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(½å¥„şÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(ª…„
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(ˆùºıúÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ó¢»›ûÿÿÿÿ
+M	java:S106R"9Replace this use of System.out or System.err by a logger.(ä¥«`
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(Ú¤é
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(®µï
+1
+java:S3626l"Remove this redundant jump.(ÉŠ©ƒ
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(Œıïõ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(Ş²ä»ùÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¾ş§îøÿÿÿÿ
+Z
+java:S1155Œ">Use isEmpty() to check whether the collection is empty or not.(©¨˜şÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(û°û™ûÿÿÿÿ
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(ÔÒ¼şÿÿÿÿ
+O	java:S106œ"9Replace this use of System.out or System.err by a logger.(ªù–û
+Z
+java:S1155Ï">Use isEmpty() to check whether the collection is empty or not.(©¨˜şÿÿÿÿ
+T	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(û°û™ûÿÿÿÿ
+O	java:S106Ó"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+8	java:S131Ø""Add a default case to this switch.(Ôæı»
+T	java:S106Û"9Replace this use of System.out or System.err by a logger.(³¬ÿÙûÿÿÿÿ
+O	java:S106Ş"9Replace this use of System.out or System.err by a logger.(ĞíÌ¼
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(³¬ÿÙûÿÿÿÿ
+O	java:S106è"9Replace this use of System.out or System.err by a logger.(ĞíÌ¼
+Z
+java:S1155÷">Use isEmpty() to check whether the collection is empty or not.(©¨˜şÿÿÿÿ
+T	java:S106ø"9Replace this use of System.out or System.err by a logger.(û°û™ûÿÿÿÿ
